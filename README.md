@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghunath21
+- 👋 Hi, I’m Raghunath Bhattacharjee
 - 👀 I’m interested in Coding,Learning New Technologies
 - 🌱 I’m currently learning React | A&I
 
