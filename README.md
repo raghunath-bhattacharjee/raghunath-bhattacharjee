@@ -1,35 +1,86 @@
-👋 Hi, I'm Raghunath Bhattacharjee
+# 👋 Hi, I'm Raghunath Bhattacharjee  
 
-Frontend Developer | React.js | Next.js | Tailwind CSS | Laravel | AWS
+### 🚀 Tech Lead | Full Stack / Frontend Engineer | MERN | Cloud | Micro-Frontend
 
-🚀 Passionate Frontend Developer with 7+ years of experience building high-performance, scalable, and accessible web applications.
-I specialize in React.js, Next.js, Redux, Tailwind CSS, and Laravel, and I love crafting clean UI systems with optimized performance.
+I'm a dedicated Full Stack MERN Developer with **7+ years of experience** crafting secure, scalable, and user-centric applications. Currently working as a **Tech Lead at TCS**, leading frontend architecture and building enterprise-grade fintech products for PayPal.
 
-👀 Interests
-Frontend Development & UI Design Systems
+I love designing performant UI systems, architecting micro-frontends, optimizing CI/CD pipelines, and contributing to open source & modern frontend ecosystems.
 
-JavaScript Animation Libraries
+---
 
-Open Source & Digital Education
+## 🛠️ Tech Stack & Expertise  
 
-🌱 Currently Learning
-Advanced React Patterns
-AI Integration in Frontend Apps
+**Frontend**
+- React.js | Next.js | Redux | Typescript  
+- Tailwind | Material UI | Styled Components  
+- Webpack | Micro-Frontend | Jest  
 
-🛠 Tech Stack
-React.js · Next.js · JavaScript (ES6+) · Redux · Tailwind CSS · Laravel · RESTful APIs · MySQL · AWS (EC2, S3) · GitHub Actions
+**Backend / DevOps**
+- Node.js | REST APIs | JWT  
+- AWS (EC2, S3) | Azure  
+- GitHub Actions | CI/CD  
 
-💼 Experience
-Frontend Engineer – Tata Consultancy Services (TCS)
-Building enterprise-grade SaaS platforms using React.js, Next.js & AWS.
+**Web3 & Others**
+- Web3.js | Solidity  
+- Design Systems | Figma  
 
-Full Stack Developer – Adrobit Technologies
-Developed web & hybrid mobile applications using React.js, Laravel & MySQL.
+---
 
-📫 Connect with Me
-📧 bhattacharjeer069@gmail.com
+## 💼 Professional Experience
 
-<!---
-raghunath21/raghunath21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔹 Tech Lead (Frontend) — Tata Consultancy Services (TCS)
+**09/2021 – Present | Kolkata, India**
+
+- Delivering secure fintech components for PayPal.
+- Implemented internal alert system, smart contract vulnerability dashboards, & transaction anomaly visualization.  
+- Built scalable UI using Next.js, Redux, Styled Components & WebSockets.  
+- Designed CI/CD pipelines with GitHub Actions & AWS for automated deployment.  
+- Delivered MVPs in ≤90 days and architected reusable component libraries.
+
+### 🔹 FullStack Developer — Adrobit Technologies
+**09/2018 – 08/2021 | Kolkata, India**
+
+- Built NFT auctions, swapping & pooling platforms.  
+- Developed REST APIs with Laravel & JWT auth.  
+- Achieved Lighthouse scores of **90+** using performance optimization techniques.
+
+---
+
+## 🏆 Certifications
+- Azure Developer Associate — 10/2025  
+- AWS Developer Associate — 09/2025  
+
+---
+
+## 🌟 Notable Projects
+- LMS Platform  
+- AI Resume Analyzer  
+- Hotel & Real Estate Management Systems  
+- Food Delivery & Healthcare Platforms  
+- Design Portfolio Generator  
+
+---
+
+## 📈 Interests & Community
+- Open Source Collaboration  
+- UI/UX Systems & JS Animations  
+- Cutting-edge tech & cloud architecture  
+
+---
+
+## 📫 Connect with Me
+
+🌐 Portfolio: raghunathbhattacharjee.netlify.app  
+💼 LinkedIn: linkedin.com/in/raghunath-bhattacharjee  
+🐙 GitHub: github.com/raghunath-bhattacharjee  
+📧 Email: bhattacharjeer069@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+I love building MVPs fast — from idea → design → launch in weeks, not months.
+
+---
+
+### 🙌 Thanks for stopping by!
+⭐ Star some repositories or connect with me — always open to collaboration.
